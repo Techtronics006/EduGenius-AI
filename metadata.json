@@ -1,0 +1,5 @@
+{
+  "name": "EduGenius AI",
+  "description": "An educational platform that uses AI to classify syllabus documents into subtopics and generates extensive question banks for targeted practice sessions.",
+  "requestFramePermissions": []
+}
